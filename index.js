@@ -1,1 +1,1 @@
-console.log("Hello World for DevOps!")
+console.log("Hello World from DevOps!")
